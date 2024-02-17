@@ -1,14 +1,16 @@
-export const API_GET_USER_URL = `https://anotherbrick-springboot-production.up.railway.app/api/test/user`;
-export const API_GET_PROPERTIES_URL = `https://anotherbrick-springboot-production.up.railway.app/getdata`;
-export const API_GET_FILTERED_PROPERTIES_URL = `https://anotherbrick-springboot-production.up.railway.app/getFilteredData`;
-export const API_POST_SELL_PROPERTY_URL = `https://anotherbrick-springboot-production.up.railway.app/postdata`;
+export const API_GET_USER_URL = `anotherbrick-springboot-production-9437.up.railway.app/api/test/user`;
+export const API_GET_PROPERTIES_URL = `anotherbrick-springboot-production-9437.up.railway.app/getdata`;
+export const API_GET_FILTERED_PROPERTIES_URL = `anotherbrick-springboot-production-9437.up.railway.app/getFilteredData`;
+export const API_POST_SELL_PROPERTY_URL = `anotherbrick-springboot-production-9437.up.railway.app/postdata`;
 
-export const API_SIGNUP_URL = `https://anotherbrick-springboot-production.up.railway.app/usersignup`
-export const API_SIGNIN_URL = `https://anotherbrick-springboot-production.up.railway.app/usersignin`
-export const API_ADD_FAVORITRES_URL = `https://anotherbrick-springboot-production.up.railway.app/postfavoritedata`
-export const API_GET_FAVORITRES_USER_URL = `https://anotherbrick-springboot-production.up.railway.app/getfavuser`
-export const API_POST_FAVORITRES_URL = `https://anotherbrick-springboot-production.up.railway.app/postfavdata`
-export const API_UPDATE_FAV_URL = `https://anotherbrick-springboot-production.up.railway.app/putfav`
+
+
+export const API_SIGNUP_URL = `anotherbrick-springboot-production-9437.up.railway.app/usersignup`
+export const API_SIGNIN_URL = `anotherbrick-springboot-production-9437.up.railway.app/usersignin`
+export const API_ADD_FAVORITRES_URL = `anotherbrick-springboot-production-9437.up.railway.app/postfavoritedata`
+export const API_GET_FAVORITRES_USER_URL = `anotherbrick-springboot-production-9437.up.railway.app/getfavuser`
+export const API_POST_FAVORITRES_URL = `anotherbrick-springboot-production-9437.up.railway.app/postfavdata`
+export const API_UPDATE_FAV_URL = `anotherbrick-springboot-production-9437.up.railway.app/putfav`
 
 export const sellerCardInfo = [
     {
